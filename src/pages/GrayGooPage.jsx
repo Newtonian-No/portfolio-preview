@@ -13,6 +13,9 @@ const timeline = [
   { year: "2025.06", title: "四子节点部署", desc: "搜索/代码/知识库/架构师 四个子 Agent，独立模型路由" },
   { year: "2025.09", title: "多平台全链路", desc: "QQ + 微信 + 飞书 + Telegram 统一接入，Obsidian 知识库联动" },
   { year: "2025.12", title: "Persona 觉醒", desc: "纳米集群叙事正式启用，灰风人格独立，进入自我迭代阶段" },
+  { year: "2026.06", title: "本地语义检索", desc: "自研 embedding 检索服务，触发词智能路由，三级降级容错" },
+  { year: "2026.07", title: "机群组网", desc: "Tailscale 多机集群，连接信息语义检索，远程文件投递与训练监控" },
+  { year: "2026.08", title: "无人值守自动化", desc: "cron 调度 arXiv 日报、邮件监控、量化信号雷达，iOS 双路推送" },
 ];
 
 function GrayGooPage() {

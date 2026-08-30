@@ -1,5 +1,17 @@
 [
   {
+    "date": "2026-08",
+    "title": "机群运维与量化自动化",
+    "tag": "Ops",
+    "description": "Tailscale 组网多机集群，cron 调度 arXiv 日报、邮件监控、A股信号雷达，iOS 双路推送"
+  },
+  {
+    "date": "2026-07",
+    "title": "本地语义检索服务",
+    "tag": "RAG",
+    "description": "自研 embedding 检索，触发词智能路由，三级降级容错，毫秒级语义匹配"
+  },
+  {
     "date": "2026-06",
     "title": "Hermes Agent 多模态调度系统上线",
     "tag": "Agent",
